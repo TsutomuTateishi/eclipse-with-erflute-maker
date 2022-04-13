@@ -1,1 +1,9 @@
 target/
+.gitignore
+eclipse-with-erflute-maker.iml
+misc.xml
+modules.xml
+vcs.xml
+Project_Default.xml
+org_dbflute_erflute_0_5_7.xml
+org_dbflute_erflute_0_5_71.xml
