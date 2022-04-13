@@ -1,8 +1,8 @@
 #!/bin/sh
 TARGET=./target
-ERFLUTE_JAR="org.dbflute.erflute_0.5.7.jar"
+ERFLUTE_JAR="org.dbflute.erflute_0.5.9.jar"
 ERFLUTE="http://dbflute.seasar.org/download/misc/helper/erflute/$ERFLUTE_JAR"
-ECLIPSE_DMG="http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/2019-03/R/eclipse-committers-2019-03-R-macosx-cocoa-x86_64.dmg"
+ECLIPSE_DMG="http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/2022-03/R/eclipse-committers-2022-03-R-macosx-cocoa-x86_64.dmg"
 
 # clear
 rm -fr $TARGET
